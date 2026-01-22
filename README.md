@@ -113,6 +113,7 @@ To analyze grocery sales data and create an **interactive business intelligence 
 ## 👤 Author
 
 **Vikash**
-📧 *Feel free to connect for feedback or collaboration*
+📧 Open to feedback and collaboration opportunities
+
 
 ---
